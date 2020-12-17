@@ -1,3 +1,4 @@
+// Basics
 pwd                     //print working dir 
 cd dirnameXYZ           // change workign dir 
 touch fileNamexyz.txt   // create new file 
@@ -7,16 +8,31 @@ ls -a                   // list all file including hidden
 
 
 // creating and commiting repo 
-git init                  // git initialize 
+step 0
+ git init                  // git initialize 
 
 step 1
  git status                 // staging or showing 
 
- step 2
+step 2
  git add  filenameXyx.txt    // add or start tracking the file for channges 
  git add -A                  // add all in the repo 
-
- step 3
+ git add .                     // add all 
+step 3
  git commit -m "commit massage "  // commit 
+step 4
+git log                        // see the log or what git is following 
+
+
+//recover files 
+git diff                   //shows diffennt betweeteen current and old files 
+git checkout                // recover from last commit (delete current one and get the old one back )
+
+
+
+
+
+
+
 
 
