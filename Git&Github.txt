@@ -1,0 +1,10 @@
+pwd                     //print working dir 
+cd dirnameXYZ           // change workign dir 
+touch fileNamexyz.txt   // create new file 
+code .                   // open dir in vs code
+ls                       // list file 
+ls -a                   // list all file including hidden 
+
+
+
+git init                  // git initialize 
