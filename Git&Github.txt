@@ -30,6 +30,11 @@ git checkout                // recover from last commit (delete current one and 
 
 
 
+//****  GitHub ******///
+git remote add origin https://github.com/sm-sadi/Learning-Files   //  select the cloud loaction for working 
+git push -u origin master     // Push it to the master branch 
+
+
 
 
 
