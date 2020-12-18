@@ -7,7 +7,7 @@ ls                       // list file
 ls -a                   // list all file including hidden 
 
 
-// creating and commiting repo 
+//**** creating and commiting repo ****//
 step 0
  git init                  // git initialize 
 
@@ -32,7 +32,13 @@ git checkout                // recover from last commit (delete current one and 
 
 //****  GitHub ******///
 git remote add origin https://github.com/sm-sadi/Learning-Files   //  select the cloud loaction for working 
-git push -u origin master     // Push it to the master branch 
+git push -u origin master                                           // Push it to the master branch // master is the branch
+
+
+
+//****Git Ignore ****//
+touch .gitignore                         // create a file that will be ignored by git 
+
 
 
 
