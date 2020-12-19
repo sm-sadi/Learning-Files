@@ -38,7 +38,10 @@ git push -u origin master                                           // Push it t
 
 //****Git Ignore ****//
 touch .gitignore                         // create a file that will be ignored by git 
+then write the names of the file that we want to ignore inside the .gitignore
 
+//***revome from staging *****//
+ git rm --cached -r .                 /// remove all from statging 
 
 
 
