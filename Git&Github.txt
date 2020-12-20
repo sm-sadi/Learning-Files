@@ -35,13 +35,38 @@ git remote add origin https://github.com/sm-sadi/Learning-Files   //  select the
 git push -u origin master                                           // Push it to the master branch // master is the branch
 
 
-
 //****Git Ignore ****//
 touch .gitignore                         // create a file that will be ignored by git 
 then write the names of the file that we want to ignore inside the .gitignore
 
 //***revome from staging *****//
  git rm --cached -r .                 /// remove all from statging 
+
+//****Git Clone ****//
+git clone url.......
+
+
+//***  GitHub branching *******//
+git branch                           // shows the  branch name  * defines the current one 
+git branch newBranchName             // create a new branch 
+git checkout theNewBranchthatiscreated           // change the working branch
+git merge otherbranchname                 /// merge with current branch 
+
+
+
+//*** pull Request *******//
+fisrt fork in  gitHub form other people's code
+after modificationn -- create pull request 
+
+
+//*** merger ******//
+if someone pull request  we can see and marge it  
+
+
+
+
+
+
 
 
 
