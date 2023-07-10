@@ -21,3 +21,11 @@
 > ES 6
 >this keyword
 higher order function 
+
+
+
+test automation : 
+-----------------
+Jest 
+selenium 
+Puppeteer
