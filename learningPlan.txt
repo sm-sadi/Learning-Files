@@ -1,0 +1,23 @@
+> object // new oop
+> promise
+> Import/export modules 
+> Asnc/sync /defer
+> arrow function
+> var/let/Const 
+> map /filter/ foreach /reduce 
+> closure /scobe (global local)
+> prototype
+> constructor
+> class
+> hoisting 
+> callback
+> Destructuring
+> Spread Syntax
+> Rest Syntax
+> find / index / index of
+> push pop shift splice sort
+> https://github.com/leonardomso/33-js-concepts
+> session localstorage cookies 
+> ES 6
+>this keyword
+higher order function 
